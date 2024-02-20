@@ -1,8 +1,7 @@
 # Scalable-User-Driven-Architecture
 
 
-![Scalable-User-Driven-Architecture](Scalable-user-driven-architecture.png)
-
+![alt text](https://github.com/Suhira17/Scalable-User-Driven-Architecture/blob/main/Scalable-user-driven-architecture.PNG?raw=true)
 ## Abstract
 
 - The architecture is designed to provide a scalable, secure, and resilient environment for hosting a web application that can handle varying levels of user demand. It uses a combination of computing, storage, database, and security services from AWS to ensure that the application remains available and responsive.
